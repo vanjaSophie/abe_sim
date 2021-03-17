@@ -27,6 +27,7 @@ ln -s ~/MORSE/schemasim/schemasim ~/MORSE/abe_sim/src/schemasim
 Once the dependencies and the repositories above are installed/cloned, go to the folder in which you have placed the repositories (in the commands above, that would be the MORSE folder). Once there, run
 
 ```
+morse import abe_sim # only required the first time
 morse run abe_sim
 ```
 
