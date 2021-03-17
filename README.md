@@ -20,7 +20,7 @@ mkdir MORSE
 cd ./MORSE
 git clone https://github.com/mpomarlan/abe_sim
 git clone https://github.com/mpomarlan/schemasim
-ln -s ./schemasim/schemasim ./abe_sim/src/schemasim
+ln -s ~/MORSE/schemasim/schemasim ~/MORSE/abe_sim/src/schemasim
 ```
 # Running the simulation
 
